@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migration.Demo.Core31", "Migration.Demo.Core31\Migration.Demo.Core31.csproj", "{D0F86290-1AD3-4A72-8FD3-09B4E4AB48F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migration.Demo.Data", "Migration.Demo.Data\Migration.Demo.Data.csproj", "{92741857-9FF8-433F-B0C1-07F3419663F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F86290-1AD3-4A72-8FD3-09B4E4AB48F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F86290-1AD3-4A72-8FD3-09B4E4AB48F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F86290-1AD3-4A72-8FD3-09B4E4AB48F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F86290-1AD3-4A72-8FD3-09B4E4AB48F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92741857-9FF8-433F-B0C1-07F3419663F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92741857-9FF8-433F-B0C1-07F3419663F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92741857-9FF8-433F-B0C1-07F3419663F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92741857-9FF8-433F-B0C1-07F3419663F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32DADE5B-6627-4AD9-A9E2-72508A45BA4B}
+	EndGlobalSection
+EndGlobal
